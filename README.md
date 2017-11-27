@@ -1,5 +1,6 @@
 # voorbeeldFormulier
-Een formulier om de code te bestuderen. Het is nogal basic, om kennis te maken met formulier-elementen
+Een formulier om de code te bestuderen. Het is nogal basic, om kennis te maken met formulier-elementen.
+De oefening en theorie staat op: https://blanken5.home.xs4all.nl/formulieren.html
 
 De tekst van het formulier luidt:
 ```
