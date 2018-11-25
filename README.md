@@ -28,8 +28,11 @@ Nog te ontwikkelen
 Aan welke skills moet je nog extra aandacht besteden?
 
 Coderen in HTML/CSS   Programmeren in Java   Scripting: programmeren in JavaScript   planning   Samenwerken
-Wat zijn jouw plannen voor de toekomst?
 
+Voeg op deze of een andere plaats in het formulier zelf ook nog een ander input-element toe.
+Het type moet passen bij de vraag die je hierbij stelt.
+
+Wat zijn jouw plannen voor de toekomst?
 
   Verstuur
  Valide HTML5  Valide CSS
